@@ -1,0 +1,20 @@
+C:\Users\cabed\Documents\SharpDevelop Projects\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.csprojResolveAssemblyReference.cache
+C:\Users\cabed\Documents\SharpDevelop Projects\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\Documents\SharpDevelop Projects\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\Documents\SharpDevelop Projects\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\Documents\SharpDevelop Projects\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\Desktop\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\Desktop\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.csprojResolveAssemblyReference.cache
+C:\Users\cabed\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\OneDrive\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.csprojResolveAssemblyReference.cache
+C:\Users\cabed\OneDrive\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\OneDrive\Desktop\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\OneDrive\Desktop\Trabajo_metodologia\Trabajo_metodologia\bin\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\OneDrive\Desktop\Trabajo_metodologia\Trabajo_metodologia\obj\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\OneDrive\Desktop\Clase_02\Clase_02\obj\Debug\Trabajo_metodologia.csprojResolveAssemblyReference.cache
+C:\Users\cabed\OneDrive\Desktop\Clase_02\Clase_02\obj\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\OneDrive\Desktop\Clase_02\Clase_02\obj\Debug\Trabajo_metodologia.pdb
+C:\Users\cabed\OneDrive\Desktop\Clase_02\Clase_02\bin\Debug\Trabajo_metodologia.exe
+C:\Users\cabed\OneDrive\Desktop\Clase_02\Clase_02\bin\Debug\Trabajo_metodologia.pdb
