@@ -70,8 +70,6 @@ namespace Trabajo_metodologia
 		{
 			
 			return this.alumno.sosMayor(objeto);
-		}
-		
-		
+		}		
 	}
 }
