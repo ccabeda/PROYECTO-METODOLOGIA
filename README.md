@@ -5,6 +5,7 @@ Diferentes problemas que se nos dieron a lo largo de las semanas, con la finalid
 # Patrones utilizados:
 
 Clase 1: Simplemente interfaces.
+
 Clase 2: Strategy e Iterator.
 Clase 3: Factory Method y Observer.
 Clase 4: Adapter y Decorator.
