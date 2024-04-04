@@ -7,8 +7,13 @@ Diferentes problemas que se nos dieron a lo largo de las semanas, con la finalid
 Clase 1: Simplemente interfaces.
 
 Clase 2: Strategy e Iterator.
+
 Clase 3: Factory Method y Observer.
+
 Clase 4: Adapter y Decorator.
-clase 5: Proxy y Command.
+
+Clase 5: Proxy y Command.
+
 Clase 6: Composite y Template Method.
+
 Clase 7: Chain of Responsability y Singleton.
